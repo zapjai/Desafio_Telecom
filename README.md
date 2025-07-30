@@ -53,7 +53,7 @@ A segunda semana foi dedicado a exploração dos dados por meio de análises vis
 
 Nessa semana também foi possível aprender na prática como utilizar a biblioteca Plotly para criar gráficos.
 
-Todas as atividades executadas estão documentadas neste [notebook](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2002/Explorando%20os%20dados.ipynb).
+Todas as atividades executadas estão documentadas neste [notebook](https://github.com/zapjai/Desafio_Telecom/blob/main/2%20-%20An%C3%A1lise%20explorat%C3%B3ria%20e%20Visualiza%C3%A7%C3%A3o/ExplorandoDados.ipynb).
 
 ---
 
