@@ -66,10 +66,3 @@ Essa foi a etapa de conclusão do projeto onde pude validar as hipóteses e suge
 Todas as atividades executadas estão documentadas no [notebook](https://github.com/zapjai/Desafio_Telecom/blob/main/3%20-%20Criando%20Modelos%20de%20ML/MachineLearning.ipynb).
 
 ---
-
-## Badge de conclusão do Projeto
-
-<a href="https://imgur.com/rvbXegn"><img src="https://i.imgur.com/rvbXegn.png" title="source: imgur.com" width="200" height="200"/></a>
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://files.tecnoblog.net/wp-content/uploads/2018/06/digital-brain.jpg?raw=true#vitrinedev)
