@@ -41,7 +41,7 @@ A primeira semana é dedicada a extração dos dados em formato json para o pyth
 
 Nesta etapa também foi realizada a tradução dos dados para o Português.
 
-O resultado final foi exportado para um [arquivo CSV](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2001/dados%20limpos.csv).
+O resultado final foi exportado para um [arquivo CSV](https://github.com/zapjai/Desafio_Telecom/blob/main/1%20-%20Limpeza%20de%20dados/DadosLimpos.csv).
 
 Todas as atividades executadas estão documentadas neste [notebook](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2001/Limpeza%20de%20dados.ipynb).
 
